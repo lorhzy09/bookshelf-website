@@ -1,7 +1,7 @@
 # About
 
 ## Description
-This site is created to document Loretta's personal reading journey 
+{{ site.description }}
 
 ## Contact me
 
