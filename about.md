@@ -5,4 +5,5 @@
 
 ## Contact me
 
-- Email: [lorhu09@g.ucla.edu](mailto:lorhu09@g.ucla.edu)
+- Email: [{{ site.email }}](mailto:{{ site.email }})
+- Twitter: [{{ site.twitter }}]({{ site.twitter }})
