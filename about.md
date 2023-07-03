@@ -1,11 +1,10 @@
 ---
 layout: default 
+title: About
 ---
 
 
 # About
-
-{% include navigation.html %}   
 
 ## Description
 {{ site.description }}
@@ -14,5 +13,3 @@ layout: default
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
 - Instagram: [{{ site.instagram }}]({{ site.instagram }})
-
-{% include footer.html %}
