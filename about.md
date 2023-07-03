@@ -13,6 +13,6 @@ layout: default
 ## Contact me
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
-- Twitter: [{{ site.twitter }}]({{ site.twitter }})
+- Instagram: [{{ site.instagram }}]({{ site.instagram }})
 
 {% include footer.html %}
