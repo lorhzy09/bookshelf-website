@@ -1,3 +1,8 @@
+---
+layout: default 
+---
+
+
 # About
 
 {% include navigation.html %}   
