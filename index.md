@@ -7,6 +7,7 @@ layout: default
 
 ## Description
 {{ site.description }}
+
 See some [examples of carpentry lessons]({{ page.lesson-example }}).
 
 More details about this website are available from the [About page](about).
