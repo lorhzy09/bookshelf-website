@@ -10,9 +10,14 @@ See some [examples of carpentry lessons]({{ page.lesson-example }}).
 
 More details about this website are available from the [About page](about).
 
-
 {% assign favourite = site.books | where:"author", "Barbara Kingsolver" | first %}
 One of my favourite books is {{ favourite.title }}.
 [See my reading list](about#books)
 
 If you could recommend me one book, what would it be? [I'd love to hear about it, or any thoughts you may have!](mailto:{{ site.email }})
+
+## Blog Posts
+
+{% for post in site.blogposts %}
+- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
