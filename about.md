@@ -6,8 +6,8 @@ title: About
 ## Description
 {{ site.description }}
 
- The following are some fiction books I love:
+ The following are some books I've read :
  {% for book in site.books %}
- - {{ book.title }}, author: {{ team_member.author }}
+ - {{ book.title }}, author: {{ book.author }}
  {% endfor %}
 
