@@ -19,5 +19,5 @@ If you could recommend me one book, what would it be? [I'd love to hear about it
 ## Blog Posts
 
 {% for post in site.blogposts %}
-- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }}) by {{ post.author }}
+- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
