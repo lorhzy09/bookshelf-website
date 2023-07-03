@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I rearranged my bookshelf!
-author: Dr James Barry
+author: Loretta Hu
 date: 2023-06-30
 ---
 
