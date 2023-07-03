@@ -6,12 +6,15 @@ books:
   -
     title: "The Library Book"
     author: "Susan Orlean"
+    genre: "non-fiction" 
     start_date: "2023-06-06"
   -
     name: "Poisonwood Bible"
     author: "Barbara Kingsolver"
+    genre: "fiction" 
     start_date: "2020-07-31"
   -
     name: "The Summer Book"
     author: "Tove Jansson"
+    genre: "fiction" 
     start_date: "2022-06-09"
